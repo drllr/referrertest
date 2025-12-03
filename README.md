@@ -25,7 +25,7 @@ Click the link below **from this README** to generate a GitHub referrer:
 **Test App Link**
 [https://firststep.throughlinecare.com/throughline/chat/explore-concern](https://firststep.throughlinecare.com/throughline/chat/explore-concern)
 [https://staging.firststep.throughlinecare.com/firststep/chat/off-boarding-character-ai-imported-2](https://staging.firststep.throughlinecare.com/firststep/chat/off-boarding-character-ai-imported-2)
-[https://firststep-studio-hnv08xnju-throughline.vercel.app/firststep/chat/off-boarding-character-ai-imported-2](https://firststep-studio-hnv08xnju-throughline.vercel.app/firststep/chat/off-boarding-character-ai-imported-2)
+[https://firststep-studio-4w8nihsiu-throughline.vercel.app/firststep/chat/off-boarding-character-ai-imported-2](https://firststep-studio-4w8nihsiu-throughline.vercel.app/firststep/chat/off-boarding-character-ai-imported-2)
 
 If the firewall rule is working correctly:
 
